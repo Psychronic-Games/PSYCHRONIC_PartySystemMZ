@@ -1,14 +1,24 @@
 # PSYCHRONIC_PartySystemMZ
 
-[v1.0.1] Advanced Party Formation System for RPG Maker MZ
+Advanced Party Formation System for RPG Maker MZ
 
-## What This Is
+## What It Does
 
-This repository contains a standalone **RPG Maker MZ plugin** from Psychronic.
+PSYCHRONIC Party System MZ.
 
-## Plugin File
+## Plugin Commands
 
-- `PSYCHRONIC_PartySystemMZ.js`
+- OpenPartyMenu
+- LockActor
+- UnlockActor
+- RequireActor
+- UnrequireActor
+- ChangeMaxBattleMembers
+
+## Compatibility
+
+- RPG Maker MZ
+- JavaScript plugin for `js/plugins/`
 
 ## Installation
 
@@ -20,11 +30,11 @@ This repository contains a standalone **RPG Maker MZ plugin** from Psychronic.
 
 This version was exported from the RPG Reactor Complex template source plugin folder.
 
-Current source version: 1.0.1
-
 ## Author
 
 PSYCHRONIC
+
+https://psychronic.itch.io
 
 ## License
 
